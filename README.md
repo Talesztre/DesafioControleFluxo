@@ -28,3 +28,7 @@ Esta classe implementa uma exceção personalizada que é lançada quando os par
 ParametrosInvalidosException(String mensagem): cria uma nova exceção com a mensagem especificada.
 Referências
 Se você quiser aprender mais sobre as classes adicionais implementadas para este projeto, consulte os arquivos Contador.java e ParametrosInvalidosException.java.
+
+
+
+![Captura de tela 2023-04-07 110218](https://user-images.githubusercontent.com/111060830/230628704-4df7d17f-93c2-47d7-b82a-8b0fe16259c7.png)
